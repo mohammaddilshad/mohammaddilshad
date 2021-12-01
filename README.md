@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammaddilshad
 - 👀 I’m interested in learning new tools and technologies
-- 🌱 I’m currently learning Python and DSA in C++
+- 🌱 I’m currently working on DSA and Python
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me : https://www.linkedin.com/in/mohammaddilshad/
 
